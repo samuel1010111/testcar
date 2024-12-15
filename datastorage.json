@@ -1,0 +1,83 @@
+[
+    {
+      "ID": 1,
+      "name": "Electro",
+      "model": "XL",
+      "price": 10,
+      "rating": "***",
+      "colors": [
+        "blue",
+        "orange",
+        "white"
+      ],
+      "details": {
+        "notes": "low emission",
+        "powerSource": "gas",
+        "consumptionPer100km": 7
+      }
+    },
+    {
+      "ID": 2,
+      "name": "Moustin",
+      "model": "chrome",
+      "price": 300,
+      "rating": "*",
+      "colors": [
+        "white",
+        "yellow",
+        "green"
+      ],
+      "details": {
+        "notes": "high quality",
+        "powerSource": "gas",
+        "consumptionPer100km": 4
+      }
+    },
+    {
+      "ID": 3,
+      "name": "FauWee",
+      "model": "chrome",
+      "price": 300,
+      "rating": "***",
+      "colors": [
+        "yellow",
+        "white",
+        "green"
+      ],
+      "details": {
+        "notes": "no comments",
+        "powerSource": "hydrogen",
+        "consumptionPer100km": 5
+      }
+    },
+    {
+      "ID": 4,
+      "name": "Ovlov",
+      "model": "gold",
+      "price": 36,
+      "rating": "****",
+      "colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "details": {
+        "notes": "no comments",
+        "powerSource": "pedalling",
+        "consumptionPer100km": 6
+      }
+    },
+    {
+      "ID": 5,
+      "name": "Drof",
+      "model": "GT",
+      "price": 15,
+      "rating": "*****",
+      "colors": [
+        "green",
+        "orange",
+        "red"
+      ]
+    }
+  ]
+  
